@@ -1,0 +1,25 @@
+{
+  "MyFavMovies": [
+    {
+      "name": "Goodfellas",
+      "date": 1990,
+      "imdb": "8.7",
+      "director": "Martin Scorsese",
+      "image": "img\goodfellas.jpg"
+    },
+    {
+      "name": "The Godfather",
+      "date": 1972,
+      "imdb": "9.2",
+      "director": "Francis Ford Coppola",
+      "image": "img\godfather.jpg"
+    },
+    {
+      "name": "Schindler's List",
+      "date": 1993,
+      "imdb": "8.9",
+      "director": "Steven Spielberg",
+      "image": "img\schindlerslist.jpg"
+    }
+  ]
+}
